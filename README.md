@@ -14,6 +14,8 @@ Predictive Model for Oil Price based on SPY 500
 
 <p style="text-indent: 5%;">
     The outlier detection has been conducted.
+</p>
+
 <p style="text-align:center;"><img src="outliers.png" alt="Outlier"></p>
 <p style="text-align:center;">Fig. 1. The outlier detection.</p>
     
@@ -29,12 +31,12 @@ Predictive Model for Oil Price based on SPY 500
 <p style="text-align:center;">Fig. 3. Benchmark and sales and price.</p>
 
 
-<p style="text-indent: 5%"> The monthly data from the web scraping is shown as Fig 4.The seasonality can be clearly seen in this figure. The data can be used to simulate the oil sales seasonality in terms of month.
+<p style="text-indent: 5%"> The monthly data from the web scraping is shown as Fig 4.The seasonality can be clearly seen in this figure. The data can be used to simulate the oil sales seasonality in terms of month. 
+</p>
 
 <p style="text-align:center;"><img src="Temperature.png" alt="Outlier"></p>
 <p style="text-align:center;">Fig. 4. Monthly Temperature.</p>
-    
-</p>
+
 
 <h><strong>3. Model Development</strong> </h>
 <p style="text-indent: 5%;">
