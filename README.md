@@ -7,7 +7,6 @@ Predictive Model for Oil Price based on SPY 500
 
 <p style="text-indent: 5%;"> 
     we use the <a href="https://finance.yahoo.com/" target="_blank" rel="external" hreflang="en" type="text/html"> Yahoo Finance </a> as the target website to get the SPY 500 stock data. The historical oil price data US <a href="https://www.eia.gov/opendata/commands.php" target="_blank" rel="external" hreflang="en" type="text/html"> U.S Energy Information Administration </a> for the oil price. The temperature data can be found at <a href="https://sercc.com/climateinfo_files/monthly/Georgia_prcp_DivNew.htm" target="_blank" rel="external" hreflang="en" type="text/html"> Georgia Climate Center </a>.
-    
 </p>
 
 <h> <strong>2. Data Analysis </strong> </h>
@@ -16,8 +15,13 @@ Predictive Model for Oil Price based on SPY 500
     The outlier detection has been conducted.
 </p>
 
-<p style="text-align:center;"><img src="outliers.png" alt="Outlier"></p>
-<p style="text-align:center;">Fig. 1. The outlier detection.</p>
+<p style="text-align:center;">
+    <img src="outliers.png" alt="Outlier">
+</p>
+
+<p style="text-align:center;">
+    Fig. 1. The outlier detection.
+</p>
     
 <p style="text-indent: 5%;">The final data visualization of the benchmark and oil sales and price. As we can see the SPY 500 stocks and Oil prices are both lower around 2009 because of American financial crisis. Oil price also reached the down point around 2016 because of the revolution of Shale oil & gas production, and the supply exceed demand.However, the benchmark cannot give the indicator of oil supply and demand relation.
 </p>
