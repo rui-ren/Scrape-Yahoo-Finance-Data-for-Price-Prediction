@@ -15,7 +15,7 @@ Predictive Model for Oil Price based on SPY 500
     The outlier detection has been conducted.
 </p>
 
-<p style="text-align:center;">
+<p align:center;">
     <img src="outliers.png" alt="Outlier">
 </p>
 
