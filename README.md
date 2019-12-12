@@ -17,7 +17,7 @@ Predictive Model for Oil Price based on SPY 500
     <p style="text-align:center;"><img src="outliers.png" alt="Outlier"></p>
     <p style="text-align:center;">Fig. 1. The outlier detection.</p>
     
-    <p style="text-indent: 5%;">The final data visualization of the benchmark and oil sales and price. As we can see the SPY 500 stocks and Oil prices are both lower around 2009 because of American financial crisis. Oil price also reached the down point around 2016 because of the revolution of Shale oil & gas production, and the supply exceed demand.However, the benchmark cannot give the indicator of oil supply and demand relation.
+<p style="text-indent: 5%;">The final data visualization of the benchmark and oil sales and price. As we can see the SPY 500 stocks and Oil prices are both lower around 2009 because of American financial crisis. Oil price also reached the down point around 2016 because of the revolution of Shale oil & gas production, and the supply exceed demand.However, the benchmark cannot give the indicator of oil supply and demand relation.
 </p>
     
 <p style="text-align:center;"><img src="spy500.png" alt="Outlier"></p>
@@ -38,19 +38,19 @@ Predictive Model for Oil Price based on SPY 500
 
 <h><strong>3. Model Development</strong> </h>
 <p style="text-indent: 5%;">
-    we get the prediction model based on Multi-variate regression and tree model to get the final results.
-    
-    <ul><strong> <li> Multi-variate regression </strong> </ul>
-    
-    <p style="text-align:center;"><img src="Price.png" alt="Price Prediction"></p>
-    <p style="text-align:center;">Fig. 5. Price Prediction.</p>
-    
-    <ul><strong> <li>Ensemble learning </strong>
-    <p style="text-align:center;"><img src="Sales.png" alt="Price Prediction"></p>
-    <p style="text-align:center;">Fig. 5. Price Prediction.</p>
-    
-    </ul>
-    <q><strong>Ensemble learning will be updated later.</strong></q>
+we get the prediction model based on Multi-variate regression and tree model to get the final results.
+
+<ul><strong> <li> Multi-variate regression </strong> </ul>
+
+<p style="text-align:center;"><img src="Price.png" alt="Price Prediction"></p>
+<p style="text-align:center;">Fig. 5. Price Prediction.</p>
+
+<ul><strong> <li>Ensemble learning </strong>
+<p style="text-align:center;"><img src="Sales.png" alt="Price Prediction"></p>
+<p style="text-align:center;">Fig. 5. Price Prediction.</p>
+
+</ul>
+<q><strong>Ensemble learning will be updated later.</strong></q>
 </p>
 
 
