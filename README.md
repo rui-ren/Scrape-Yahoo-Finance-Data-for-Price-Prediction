@@ -42,7 +42,7 @@ we get the prediction model based on Multi-variate regression and tree model to 
 
 <ul><strong> <li> Multi-variate regression </strong> </ul>
 
-<p style="text-align:center;"><img src="Price.png" alt="Price Prediction"></p>
+<p style="text-align:center;"><img src="price.png" alt="Price Prediction"></p>
 <p style="text-align:center;">Fig. 5. Price Prediction.</p>
 
 <ul><strong> <li>Ensemble learning </strong>
