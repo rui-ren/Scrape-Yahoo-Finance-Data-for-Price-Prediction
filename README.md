@@ -1,4 +1,9 @@
 # Scrape-Yahoo-Finance-Data-for-Price-Prediction
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
 Predictive Model for Oil Price based on SPY 500
 
 <h>
