@@ -33,7 +33,7 @@ Predictive Model for Oil Price based on SPY 500
 <p style="text-indent: 5%;"> In Fig 3, the Shell or Chevron Stock can be the good indicator of supply and demand relation. As we can see the shell stock also decreased dramatically around 2016.</p>
 
 <p style="text-align:center;"><img src="shell.png" alt="Outlier"></p>
-<p style="text-align:center;">Fig. 3. Benchmark and sales and price.</p>
+<p style="text-align:center;"><Fig. 3. Benchmark and sales and price.></p>
 
 
 <p style="text-indent: 5%"> The monthly data from the web scraping is shown as Fig 4.The seasonality can be clearly seen in this figure. The data can be used to simulate the oil sales seasonality in terms of month. 
