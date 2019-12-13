@@ -58,6 +58,10 @@ we get the prediction model based on Multi-variate regression and tree model to 
 <q><strong>Ensemble learning will be updated later.</strong></q>
 </p>
 
+<div class="myWrapper" markdown="1">
+# my markdown content
 
+this content is wrapped into a div with class "myWrapper"
+</div>
 
 
