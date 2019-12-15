@@ -1,4 +1,5 @@
 # Scrape-Yahoo-Finance-Data-for-Price-Prediction
+
 Predictive Model for Oil Price based on SPY 500
 
 <h>
@@ -19,7 +20,7 @@ Predictive Model for Oil Price based on SPY 500
     <img src="outliers.png" alt="Outlier">
 </p>
 
-<p style="text-align:center;">Fig. 1. The outlier detection.</p>
+<div style="text-align:center;" markdown='1'>Fig. 1. The outlier detection.</div>
 
     
 <p style="text-indent: 5%;">The final data visualization of the benchmark and oil sales and price. As we can see the SPY 500 stocks and Oil prices are both lower around 2009 because of American financial crisis. Oil price also reached the down point around 2016 because of the revolution of Shale oil & gas production, and the supply exceed demand.However, the benchmark cannot give the indicator of oil supply and demand relation.
@@ -57,7 +58,6 @@ we get the prediction model based on Multi-variate regression and tree model to 
 </ul>
 <q><strong>Ensemble learning will be updated later.</strong></q>
 </p>
-
 
 
 
