@@ -37,6 +37,14 @@ def get_data(url, key):
 
     return df
 
+def get_stock(cols, start_date, end_date, interval='m'):
+    sd = start_date
+    ed = end_date
+    ind = pd.date_range(sd, ed)
+    stock_price = web.get_data_yahoo(cols, sd, ed, interval=interval)
+    df = stock_price[['Adj Close']]
+    return df
+    
 
 def test_code():
 
@@ -60,6 +68,16 @@ def test_code():
     price_data = get_data(price_val_url, price_val_key)
     plt.plot(price_data.index, price_data, 'blue')
     plt.show()
+    
+    # Figure for the stock price
+    stocks = ['^GSPC', 'RDS-A']
+    sd = '01/01/2007'
+    ed = '09/02/2019'
+    # stocks = ['^GSPC','RDS-A', 'HFC', 'UPS', 'FDX', 'MSM']
+    for i in stocks:
+        stock_price = get_stock(i, sd, ed)
+        stock_price.plot(title=i)
+        plt.show()
     
 if __name__ == "__main__":
     
